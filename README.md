@@ -26,7 +26,7 @@ A symbolic link race condition attack demonstrating how improper file access val
 ## Author
 
 Shahad Alharbi
-A student at the University of Jeddah, College of Science and Computer Engineering
+a student at the University of Jeddah, College of Science and Computer Engineering
 
 ## Academic Purpose
 
